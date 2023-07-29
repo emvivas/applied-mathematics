@@ -1,2 +1,2 @@
 # applied-mathematics
-Applied mathematics.
+<b>Applied mathematics.</b>
